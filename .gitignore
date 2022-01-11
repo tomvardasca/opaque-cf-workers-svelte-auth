@@ -1,0 +1,19 @@
+# SvelteKit
+.DS_Store
+node_modules
+dist
+package-lock.json
+yarn.lock
+.env
+.vercel_build_output
+.svelte-kit
+.cloudflare
+.pnpm-debug.log
+.netlify
+
+# Rust
+/target
+**/*.rs.bk
+bin/
+pkg/
+wasm-pack.log
